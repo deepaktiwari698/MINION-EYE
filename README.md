@@ -1,1 +1,1 @@
-# MINION-EYE
+This JavaScript code enables an interactive eye animation that tracks the user's cursor or touch movement. It selects eye elements, adds event listeners for cursor or touch events, calculates eye rotation based on position, and applies CSS styles for visual effects. Overall, it creates an engaging and responsive user experience.
